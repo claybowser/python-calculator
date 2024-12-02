@@ -1,4 +1,4 @@
-### Scientific Calculator written in Python
+### Repository Name: python-calculator
 ### Author: Clay Bowser
 ### Date: December 2nd 2024
 ### This repository hosts a scientific calculator written in Python and Tkinter. It includes error handling, and unit tests.
