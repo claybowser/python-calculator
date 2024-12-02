@@ -48,7 +48,7 @@ Run the calculator application:
 ```bash
 python calculator.py
 ```
-![2024-12-02 Screenshot of graphical user interface of calculator.]("./calculator-ui.PNG")
+![2024-12-02 Screenshot of graphical user interface of calculator by Clay Bowser.](calculator-ui.PNG "2024-12-02 Screenshot of graphical user interface of calculator by Clay Bowser.")
 
 The calculator provides a graphical interface with:
 - A display screen for input and results
@@ -64,7 +64,7 @@ The application includes a comprehensive test suite. To run the tests:
 python -m unittest test_calculator.py -v
 ```
 
-![2024-12-02 Screenshot of output of calculator unit test showing no failures.]("./calculator-unit-test-output.PNG")
+![2024-12-02 Screenshot of output of calculator unit test showing no failures.](calculator-unit-test-output.PNG "2024-12-02 Screenshot of output of calculator unit test showing no failures.")
 
 The test suite covers:
 - Basic arithmetic operations
